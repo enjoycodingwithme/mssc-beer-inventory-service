@@ -1,0 +1,16 @@
+/Users/abdo/Developement/IdeaProjects/mssc-brewery-ws/mssc-beer-inventory-service/src/main/java/guru/sfg/beer/inventory/service/web/model/BeerInventoryDto.java
+/Users/abdo/Developement/IdeaProjects/mssc-brewery-ws/mssc-beer-inventory-service/src/main/java/com/enjoycoding/commons/events/NewInventoryEvent.java
+/Users/abdo/Developement/IdeaProjects/mssc-brewery-ws/mssc-beer-inventory-service/src/main/java/guru/sfg/beer/inventory/service/repositories/BeerInventoryRepository.java
+/Users/abdo/Developement/IdeaProjects/mssc-brewery-ws/mssc-beer-inventory-service/src/main/java/guru/sfg/beer/inventory/service/domain/BeerInventory.java
+/Users/abdo/Developement/IdeaProjects/mssc-brewery-ws/mssc-beer-inventory-service/src/main/java/guru/sfg/beer/inventory/service/web/mappers/DateMapper.java
+/Users/abdo/Developement/IdeaProjects/mssc-brewery-ws/mssc-beer-inventory-service/src/main/java/guru/sfg/beer/inventory/service/BeerInventoryApplication.java
+/Users/abdo/Developement/IdeaProjects/mssc-brewery-ws/mssc-beer-inventory-service/src/main/java/guru/sfg/beer/inventory/service/web/model/BeerStyleEnum.java
+/Users/abdo/Developement/IdeaProjects/mssc-brewery-ws/mssc-beer-inventory-service/src/main/java/guru/sfg/beer/inventory/service/services/InventoryListener.java
+/Users/abdo/Developement/IdeaProjects/mssc-brewery-ws/mssc-beer-inventory-service/src/main/java/com/enjoycoding/commons/events/BrewBeerEvent.java
+/Users/abdo/Developement/IdeaProjects/mssc-brewery-ws/mssc-beer-inventory-service/src/main/java/guru/sfg/beer/inventory/service/web/mappers/BeerInventoryMapper.java
+/Users/abdo/Developement/IdeaProjects/mssc-brewery-ws/mssc-beer-inventory-service/src/main/java/guru/sfg/beer/inventory/service/web/controllers/BeerInventoryController.java
+/Users/abdo/Developement/IdeaProjects/mssc-brewery-ws/mssc-beer-inventory-service/src/main/java/guru/sfg/beer/inventory/service/web/model/BeerDto.java
+/Users/abdo/Developement/IdeaProjects/mssc-brewery-ws/mssc-beer-inventory-service/src/main/java/guru/sfg/beer/inventory/service/config/JmsConfig.java
+/Users/abdo/Developement/IdeaProjects/mssc-brewery-ws/mssc-beer-inventory-service/src/main/java/guru/sfg/beer/inventory/service/bootstrap/BeerInvntoryBootstrap.java
+/Users/abdo/Developement/IdeaProjects/mssc-brewery-ws/mssc-beer-inventory-service/src/main/java/com/enjoycoding/commons/events/BeerEvent.java
+/Users/abdo/Developement/IdeaProjects/mssc-brewery-ws/mssc-beer-inventory-service/src/main/java/guru/sfg/beer/inventory/service/domain/BaseEntity.java
